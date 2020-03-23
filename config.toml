@@ -1,6 +1,6 @@
 BaseUrl= "https://ilyusha71.github.io/"
 LanguageCode= "en-US"
-Title= "Hugo Theme Air"
+Title= "哇咔咔逗比遊戲實驗室"
 paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2016"
@@ -13,7 +13,7 @@ canonifyurls = true
     post = "/post/:year/:month/:day/:slug"
 
 [params]
-  description = "this is my description"
+  description = "來自哇咔咔星系的逗你玩磚家：•••••伊琉沙•卡斯摩沙"
   cover = "images/user.jpg"
   author = "syui"
   authorlocation = ""
